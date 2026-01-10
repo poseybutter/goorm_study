@@ -26,7 +26,7 @@
 - 예: `feature/kyg`
 
 3 . Pull Request 작성
-- 개인 브랜치에서 작업이 완료되면 원본 레포지토리로 PR(Pull Request)을 제출합니다.
+- 개인 브랜치에서 작업이 완료되면 원본 레포지토리로 `PR(Pull Request)`을 제출합니다.
 - PR 제목과 내용은 작업한 회차와 자료 내용을 명확히 작성합니다.
 
 4 . 관리자 Merge

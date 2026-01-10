@@ -10,7 +10,7 @@
 ## 👥 함께 공부하는 사람들
 |이미지|이미지|이미지|이미지|
 |:---:|:---:|:---:|:---:|
-|[김영규](https://github.com/KimYoungQ)|[이지은](https://github.com/poseybutter)|유명인|이수진|
+|[김영규](https://github.com/KimYoungQ)|[이지은](https://github.com/poseybutter)|유명인|[이수진](https://github.com/groomjinie)|
 |![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|
 
 <br>

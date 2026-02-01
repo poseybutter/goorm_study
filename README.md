@@ -67,4 +67,4 @@
 | 스터디 |  김영규   |                                                                              이지은                                                                              |유명인|이수진|
 |:---:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:---:|
 | 1월  | [1회](https://www.notion.so/260125_-2f3eca6f192b8083a3e7ec8ae770d8e3?source=copy_link) | [1회](https://poseybutter-insight.tistory.com/293)<br/>[2회](https://poseybutter-insight.tistory.com/292)<br/>[3회](https://poseybutter-insight.tistory.com/297) |링크|링크|
-| 2월  |        |                                                                                                                                                               |||
+| 2월  |        |                                                                            [1회](https://github.com/poseybutter/goorm-backend-java/tree/main/src/jungseok/Chapter14)                                                                             |||
